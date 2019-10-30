@@ -1,6 +1,11 @@
-# expense
+# Expenses Application
 
-A new Flutter project.
+A Step Forward in Apps Development using Flutter.
+
+# Application Description
+
+An IOS/ANDROID Application used to add and save your expenses through the last week.
+Presents a Graph to show your expenses everyday in a simple way for the user to read.
 
 ## Getting Started
 
